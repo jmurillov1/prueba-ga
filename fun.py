@@ -1,0 +1,2 @@
+def ch():
+    print("Saludo")
